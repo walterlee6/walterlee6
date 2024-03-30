@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Walter Lee Wei Quan</h1>
 <h3 align="center">A passionate software engineer from Malaysiar</h3>
 
-<img align="right" alt = "Coding" width = "400" src = "https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
+<img align="right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walterlee6&label=Profile%20views&color=0e75b6&style=flat" alt="walterlee6" /> </p>
 
@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walterlee6&" alt="walterlee6" /></p>
 
-for the master head is it correct code
