@@ -1,4 +1,4 @@
-<img align="center" alt = "Coding" width = "900" src = "https://github.com/walterlee6/walterlee6/assets/83454635/45d61b81-2776-4fb5-aff2-f4414b4a02dc">
+<img align="center" alt = "Coding" width = "1200" src = "https://github.com/walterlee6/walterlee6/assets/83454635/45d61b81-2776-4fb5-aff2-f4414b4a02dc">
 
 <h1 align="center">Hi 👋, I'm Walter Lee Wei Quan</h1>
 <h3 align="center">A passionate software engineer from Malaysiar</h3>
