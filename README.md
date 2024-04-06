@@ -1,7 +1,7 @@
 <img align="center" alt = "Coding" width = "1400" src = "https://github.com/walterlee6/walterlee6/assets/83454635/45d61b81-2776-4fb5-aff2-f4414b4a02dc">
 
 <h1 align="center">Hi 👋, I'm Walter Lee Wei Quan</h1>
-<h3 align="center">A passionate software engineer from Malaysiar</h3>
+<h3 align="center">A passionate software engineer from Malaysia</h3>
 
 <img align="right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
